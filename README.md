@@ -17,4 +17,4 @@ There are three sections:
           
                    GampminderShiny 
 
-You can see accompanying slides here: [DS the R Way](https://tanjakec.github.io/dsrway/dsrway.htm).
+You can see accompanying slides here: [DS the R way](https://tanjakec.github.io/dsrway/dsrway.htm).
