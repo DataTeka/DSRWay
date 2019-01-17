@@ -16,3 +16,5 @@ There are three sections:
           Folders: RMarkdownIntro and 
           
                    GampminderShiny 
+
+You can see accompanying slides here: [DS the R Way](https://tanjakec.github.io/dsrway/dsrway.htm).
